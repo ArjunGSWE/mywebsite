@@ -2,7 +2,7 @@ h1 {
     font: 900;
     font-size: 10em;
     text-align: center;
-    color: hsl(200, 50%, 10%);
+    color: hsl(200deg, 50%, 10%);
 
 }
 
