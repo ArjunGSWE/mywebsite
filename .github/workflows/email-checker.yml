@@ -1,5 +1,5 @@
 name: Email Checker
-
+on: [push]
 jobs:
   checking email:
   runs-on: ubuntu-latest
