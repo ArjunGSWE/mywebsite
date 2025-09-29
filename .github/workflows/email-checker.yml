@@ -1,0 +1,8 @@
+name: Email Checker
+
+jobs:
+  checking email:
+  runs-on: ubuntu-latest
+    steps:
+      - name: 22f1000422@ds.study.iitm.ac.in
+        run: echo "Email checker ran successfully"
