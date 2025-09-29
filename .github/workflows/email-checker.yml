@@ -1,8 +1,8 @@
 name: Email Checker
 on: [push]
 jobs:
-  checking email:
+  checking_email:
   runs-on: ubuntu-latest
-    steps:
-      - name: "22f1000422@ds.study.iitm.ac.in"
-        run: echo "Email checker ran successfully"
+  steps:
+    - name: "22f1000422@ds.study.iitm.ac.in"
+      run: echo "Email checker ran successfully"
